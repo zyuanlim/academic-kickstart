@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Head of Data"
+  company = "Gojek"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Singapore"
+  date_start = "2019-01-17"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Build the data team and capabilities for Cartography, Gojek's central mapping, routing and location intelligence team
+  * Hire and manage a team of 15 data analysts, data scientists and data engineers
+  * Develop a model for traffic patterns, devise search rank scoring of places, and mine user generated content to improve places data
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Senior AI Engineer"
+  company = "Alibaba Group"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hangzhou, China"
+  date_start = "2017-11-07"
+  date_end = "2018-10-01"
+  description = """Led development of automated deep learning features in AI platform.
+  """
+
+[[experience]]
+  title = "Lead Data Scientist"
+  company = "Gojek"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2016-10-01"
+  date_end = "2017-11-01"
+  description = """
+  * In-charge of end-to-end machine learning deployment from data ingestion and model training to production with the following highlights- python, bash scripts, scala, spark and dockerized deployments.
+  * Led/mentored a team of data scientists.
+  """
+
+  [[experience]]
+  title = "Data Scientist"
+  company = "KPMG"
+  company_url = ""
+  location = "Singapore"
+  date_start = "2015-12-01"
+  date_end = "2016-10-01"
+  description = """
+  * Led predictive modelling projects with key business functions to support their core business processes
+  * Applied machine learning in product development to support innovation in digital lab
+  """
 
 +++
