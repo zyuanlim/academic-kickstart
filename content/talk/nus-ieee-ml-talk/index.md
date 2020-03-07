@@ -70,7 +70,7 @@ projects: []
 This is a presentation that I gave at NUS IEEE Young Professionals Analytics & Machine Learning. The full codes and slides can be found [here](https://github.com/zyuanlim/NUS-IEEE-Analytics-Talk).
 
 <iframe
-       src="https://nbviewer.jupyter.org/github/zyuanlim/NUS-IEEE-Analytics-Talk/blob/caf8c227cee7d8a463313dfb93cf45978b9824f6/PeekingIntoTheBlackBox.ipynb"
+       src="https://nbviewer.jupyter.org/github/zyuanlim/NUS-IEEE-Analytics-Talk/blob/8ad155d14ec5857a1e7853e7951fafcca94b9460/PeekingIntoTheBlackBox.ipynb"
        width="90%"
        height="1000px"
        style="border:none;">

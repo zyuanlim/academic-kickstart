@@ -125,6 +125,7 @@ Critical as more and more decisions are made using algorithms
 ## Case study on Go-Jek
 
 <img src="./gojek.png" width="1000" height="100" align="middle"/> 
+
 * On-demand mobile platform that provides a variety of complete services
     * transportation (300,000 *ojek* and car driver partners)
     * logistics / food delivery (100,000 food vendors)
@@ -148,7 +149,7 @@ Critical as more and more decisions are made using algorithms
 
 ### Results
 
-* Very successful, conversion rate gain of **3%**, acceptance rate gain of **10%** on average against control
+* Very successful, improved conversion rate and acceptance rate against control
 * *How do we assess biasness and fairness of the model?*
 * Walking on fine line, affects the livelihood of drivers, any perceived mistreatment will trigger riots
 
