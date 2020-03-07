@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/zyuanlim
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/zanelim
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,6 +73,8 @@ email: "zyuanlim@gmail.com"
 # - Visitors
 ---
 
-Zane is a data science / machine learning practitioner and an AI enthusiast. He is currently the Head of Data in Cartography- Gojek's central mapping platform group, where he leads a team of data analysts, scientists and engineers. His job involves end-to-end predictive modelling application, from building data pipelines to machine learning modelling to engineering real-time deployment.
+Zane is a data science / machine learning practitioner and an AI enthusiast. He is currently the Head of Data in Cartography- Gojek's central mapping platform group, where he leads a team of data analysts, scientists and engineers. 
 
-Off-work, Zane has participated in various data science hackathons and won good standings in a few of them, with the highlight being part of the Singapore representatives to the worldwide Data Science Games competition held in Paris. He is an avid Kaggler and a mentor in Udacity’s Artificial Intelligence nanodegree programme. He also enjoys contributing back to the society and has served as the founding team of Data Science SG- Singapore's largest data science community, as well as a Data Expert volunteer in DataKind's DataCorps project. He is also the lead instructor in General Assembly's part-time data science course.
+His day-to-day job is a blend of management and technical hands-on, including hiring, team building and management, building data pipelines, machine learning modelling and engineering production systems.
+
+Off-work, Zane has participated in kaggle and data science hackathons and won good standings in a few of them, with the highlight being part of the Singapore representatives to the worldwide Data Science Games competition held in Paris. He also enjoys teaching and mentoring, and used to be a mentor in Udacity’s AI nanodegree programme and is currently the lead instructor in General Assembly's part-time data science course. He also enjoys contributing back to the society and has served as the founding team of Data Science SG- Singapore's largest data science community, as well as a Data Expert volunteer in DataKind's DataCorps project.
