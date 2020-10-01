@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,12 +22,14 @@ date_format = "Jan 2006"
   company = "Gojek"
   company_url = ""
   location = "Singapore"
-  date_start = "2019-01-17"
+  date_start = "2019"
   date_end = ""
   description = """
-  * Build the data team and capabilities for Cartography, Gojek's central mapping, routing and location intelligence team
-  * Hire and manage a team of 15 data analysts, data scientists and data engineers
-  * Develop a model for traffic patterns, devise search rank scoring of places, and mine user generated content to improve places data
+  * Building the data team which comprises data analysts and data scientists for Cartography, GOJEK's central mapping and routing team. The problems we are tackling include
+    - Routing and navigation: Traffic and speed modelling, ETA prediction
+    - Search: Rank scoring of places and reverse geocoding
+    - NLP: Mining user generated chats to improve places data
+    - Maps: Maps data improvement and maps error inference
   """
 
 [[experience]]
@@ -35,8 +37,8 @@ date_format = "Jan 2006"
   company = "Alibaba Group"
   company_url = ""
   location = "Hangzhou, China"
-  date_start = "2017-11-07"
-  date_end = "2018-10-01"
+  date_start = "2017"
+  date_end = "2018"
   description = """Led development of automated deep learning features in AI platform.
   """
 
@@ -45,8 +47,8 @@ date_format = "Jan 2006"
   company = "Gojek"
   company_url = ""
   location = "Singapore"
-  date_start = "2016-10-01"
-  date_end = "2017-11-01"
+  date_start = "2016"
+  date_end = "2017"
   description = """
   * In-charge of end-to-end machine learning deployment from data ingestion and model training to production with the following highlights- python, bash scripts, scala, spark and dockerized deployments.
   * Led/mentored a team of data scientists.
@@ -57,8 +59,8 @@ date_format = "Jan 2006"
   company = "KPMG"
   company_url = ""
   location = "Singapore"
-  date_start = "2015-12-01"
-  date_end = "2016-10-01"
+  date_start = "2015"
+  date_end = "2016"
   description = """
   * Led predictive modelling projects with key business functions to support their core business processes
   * Applied machine learning in product development to support innovation in digital lab
